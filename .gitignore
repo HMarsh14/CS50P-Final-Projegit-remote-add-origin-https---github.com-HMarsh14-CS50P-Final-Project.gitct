@@ -1,0 +1,10 @@
+/.pytest_cache
+/background.wav
+/bullet.png
+/enemy.png
+/explosion.wav
+/laser.wav
+/player.png
+/space-invaders-background.png
+/space-invaders.png
+/__pycache__
